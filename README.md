@@ -1,6 +1,6 @@
-# Privacy Policy for QuakeGuard
+# Privacy Policy for Deprem
 
-Last updated: [Tarih]
+Last updated: [19.02.2025]
 
 ## Introduction
 
