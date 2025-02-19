@@ -1,4 +1,4 @@
-# Privacy Policy for Deprem
+Privacy Policy for Deprem
 
 Last updated: [19.02.2025]
 
@@ -76,13 +76,4 @@ The App does not knowingly collect any personal information from children under 
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
 
-## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us:
-- Email: [Email Adresi]
-- GitHub: [GitHub Profil Linki]
-
-## Open Source
-
-QuakeGuard is an open-source project. You can view our source code and contribute on GitHub:
-[GitHub Repo Linki]
